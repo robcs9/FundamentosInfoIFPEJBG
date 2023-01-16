@@ -1,9 +1,9 @@
 # FundamentosInfoIFPEJBG
 
-Repositório dedicado às minhas atividades da disciplina de Fundamentos da Informática do curso de Informática Para Internet do IFPE Jabotão dos Guararapes.
+Repositório dedicado às minhas atividades da disciplina de Fundamentos da Informática do curso de Informática Para Internet do IFPE Jaboatão dos Guararapes.
 
 ## Livros e repositórios relevantes
 
-Pro Git by Scott Chacon and Ben Straub - progit.pdf
+**Pro Git by Scott Chacon and Ben Straub** - progit.pdf
 
-Free Programming Books - free-programming-books.md
+**Free Programming Books** - free-programming-books.md
